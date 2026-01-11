@@ -1,0 +1,2 @@
+# Installations 
+  npm i axios@^1.7.7 dayjs@^1.11.13 @reduxjs/toolkit@^2.2.3 @tanstack/react-query@^5.90.7 @tanstack/react-query-devtools@^5.90.7 react-icons@^5.2.1 react-redux@^9.1.2 react-router-dom@^7.0.2 react-toastify@^10.0.5
