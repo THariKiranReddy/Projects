@@ -3,7 +3,7 @@ import { Form, Link, useLoaderData } from "react-router-dom";
 import FormInput from "./FormInput";
 import FormSelect from "./FormSelect";
 import FormRange from "./FormRange";
-import FormCheckbox from "./FormCheckbox";
+import FormCheckBox from "./FormCheckBox";
 
 const Filter = () => {
   const { meta, params } = useLoaderData();
@@ -51,7 +51,7 @@ const Filter = () => {
         size="range-sm"
         price={price}
       />
-      <FormCheckbox
+      <FormCheckBox
         label="free  shipping"
         name="shipping"
         size="checkbox-sm"
